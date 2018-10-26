@@ -1,8 +1,8 @@
 ﻿// Copyright 2018 Elmish.XamarinForms contributors. See LICENSE.md for license.
 namespace EXF_NavigationAndCmd
 
-open Elmish.XamarinForms
-open Elmish.XamarinForms.DynamicViews
+open Fabulous.Core
+open Fabulous.DynamicViews
 open Xamarin.Forms
 
 module App = 
